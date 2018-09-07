@@ -1,0 +1,17 @@
+{
+    "FIREWALL": {
+        "SSH"   : "SSH freigeben",
+        "RDESKTOP": "Remotedesktop freigeben",
+        "HTTPS" : "Https",
+        "ADMIN" : "Adminoberfläche freigeben",
+        "ADDOUTGOING" : "Ausgehende Firewallzugriffsregel",
+        "TITLE" : "Firewallzugriffsregeln verwalten",
+        "INCOMING" : "Eingehende Firewallzugriffsregel hinzufügen",
+        "OUTGOING" : "Ausgehende Firewallzugriffsregel hinzufügen",
+        "OTHER" : "Sonstige Ports freigeben",
+        "OTHERERROR" : "Liste von Ports, durch Leerzeichen getrennt"
+    },
+    "Firewall incoming access rule  was set succesfully.":"Eingehende Firewallzugriffsregeln wurden erfolgreich gesetzt.",
+    "Firewall outgoing access rule  was set succesfully.":"Ausgehende Firewallzugriffsregeln wurden erfolgreich gesetzt.",
+    "Firewall remote access rule  was set succesfully.":"Firewallzugriffsregel wurde für den Fernzugriff erfolgreich gesetzt."
+}

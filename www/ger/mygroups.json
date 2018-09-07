@@ -1,0 +1,23 @@
+{
+    "MYGROUPS": {
+        "TITLE" : "Schüler",
+        "USERSINROOM" : "Mitglieder",
+        "MEMBERS" : "Mitglieder",
+	"AVAIUSERS": "Verfügbar",
+        "DOUBLECLICKREM": "Doppelklick um aus der Gruppe zu entfernen",
+        "DOUBLECLICKADD": "Duppelklick um zur Gruppe hinzuzufügen",
+	"DETAILS" : "Bearbeiten",
+        "ALL"   : "Übersicht",
+        "ADD"   : "Gruppe anlegen",
+        "SELECTUSER" : "Benutzer aushwählen",
+        "DELETETEMPLATE": "Profil löschen?",
+        "SHARETEMPLATE" : "Profil verteilen?",
+        "INTERNET"      : "Internetzugang?", 
+        "LOGIN"         : "Anmedlung ?"
+    },
+    "The selected users were disabled." : "Ausgewählte Benutzer wurden gesperrt.",
+    "The selected users were enabled." : "Ausgewählte Benutzer wurden freigegeben.",
+    "The template for the selected users was copied." : "Das Profil wurde an die ausgewählten Benutzer verteilt.",
+    "The windows profile(s) of the user was removed." : "Die Windowsprofile der ausgewählten Benutzer wurden gelöscht.",
+    "The password of the selected users was reseted" : "Das Passwort der ausgewählten Benutzer wurde gesetzt."
+}

@@ -1,0 +1,35 @@
+{
+"ROOMS": {
+    "TITLE": "Rooms",
+    "ALL"  : "Overview",
+    "ADD"  : "Add room",
+    "ALLPRINTERS": "Available printers",
+    "AVAILABLEPRINTER": "Other printers",
+    "CLIENTPRINT" : "Devices and Printers",
+    "DEFAULTPRINTER": "Standard printers",
+    "SELECTROOMTYPE": "Selecet roomtype",
+    "SELECTROOMC"   : "Roomcontrol",
+    "SELECTCOUNT"   : "Devices",
+    "SELECTNETWORK" : "Select network",
+    "SELECTROWS"    : "Row",
+    "SELECTPLACES"  : "Places per row",
+    "DEVICES"       : "Devices",
+    "SETACCESS"     : "Set access",
+    "PROXY"         : "Proxy",
+    "DIRECT"        : "Direct internetaccess",
+    "LOGIN"         : "Login",
+    "PRINTERS"      : "Printer",
+    "PRINTING"      : "Print", 
+    "PORTAL"        : "Portal/Mail",
+    "DELETE"        : "Delet rooms?",
+    "DELETETITLE"   : "Delete?",
+    "DELETMSG"      : "Deleting rooms...",
+    "DELETSUCCESS"  : "Room was deleted succesfully.",
+    "SELECTROOM"    : "Select room!"
+    },
+"Room was created succesfully.":"Room was created succesfully.",
+"The room was modified succesfully.": "The room was modified succesfully.",
+"Access state in was set succesfully.": "Access state in was set succesfully.",
+"Devices were created succesfully." : "Devices were created succesfully."
+     
+}

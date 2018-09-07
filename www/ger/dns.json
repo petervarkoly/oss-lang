@@ -1,0 +1,8 @@
+{
+    "DNS" : {
+        "TITLE" : "Nameserver",
+	"RECTYPE" : "Recordtype",
+	"RECNAME" : "Name",
+	"RECDATA" : "Wert"
+    }
+}

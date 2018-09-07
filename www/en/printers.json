@@ -1,0 +1,18 @@
+{
+    "PRINTERS" : {
+        "TITLE" : "Administrate printers",
+        "ALL"   : "Overview",
+        "ADD"   : "Add Printer",
+        "MAN"   : "Manufacture",
+        "MODEL" : "Model",
+        "DRIVERACT": "Drivershare",
+        "WINDOWSDRIVER" : "Activate Windows driver",
+        "SELECTPRINTER" : "Select Printer!",
+        "JOBSACC" : "Accept Jobs",
+        "DELETSUCCESS" : "Printer was deleted sucessfully."
+    },
+    "Printer was enabled succesfully." : "Printer was enabled succesfully.",
+    "Printer was disabled succesfully." : "Printer was disabled succesfully.",
+    "Printer was created succesfully."  : "Printer was created succesfully.",
+    "Windows driver was activated."     : "Windows driver was activated." 
+}

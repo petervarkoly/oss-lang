@@ -1,0 +1,12 @@
+{
+    "HWCONFIGS": {
+        "TITLE" : "Hardwarekonfigurationen",
+        "ALL"   : "Übersicht",
+        "ADD"   : "Konfiguration hinzufügen",
+        "EDIT"  : "Bearbeiten",
+        "CLONETITLE": "Clonen",
+        "PARTITIONS" : "Partitionen",
+        "DELETEQ"   : "Konfiguration löschen?"
+
+    }
+}

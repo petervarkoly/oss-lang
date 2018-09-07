@@ -1,0 +1,56 @@
+#
+# spec file for package oss-lang
+#
+# Copyright (c) 2018 Peter Varkoly, Nuernberg, Germany.
+#
+# All modifications and additions to the file contributed by third parties
+# remain the property of their copyright owners, unless otherwise agreed
+# upon. The license for this file, and modifications and additions to the
+# file, is the same license as for the pristine package itself (unless the
+# license for the pristine package is not an Open Source License, in which
+# case the license is the MIT License). An "Open Source License" is a
+# license that conforms to the Open Source Definition (Version 1.9)
+# published by the Open Source Initiative.
+
+# Please submit bugfixes or comments via http://bugs.cephalix.eu/
+#
+
+Name:           oss-lang
+Version:	@VERSION@
+Release:	@RELEASE@
+License:	GPL-2.0+ and LGPL-2.1+
+Summary:	Base Language Package for the OSS
+Url:		http://www.openschoolserver.net
+Group:		Applications/Productivity	
+Source:		%{name}.tar.bz2
+BuildRequires:	apache2
+PreReq:		apache2
+BuildArch:      noarch
+BuildRoot:      %{_tmppath}/%{name}-%{version}-build
+
+%description
+
+%prep
+%setup -q  -n %{name}
+
+%build
+
+%install
+make install DESTDIR=%{buildroot}
+
+%post
+
+%postun
+
+%files
+%defattr(644,root,root,755)
+#%doc ChangeLog README COPYING
+%dir /srv/www/admin/
+%dir /srv/www/admin/assets/
+%dir /srv/www/admin/assets/data/
+%dir /srv/www/admin/assets/data/lang/
+/srv/www/admin/assets/data/lang/*
+/srv/www/admin/*
+
+
+

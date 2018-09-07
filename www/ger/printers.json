@@ -1,0 +1,18 @@
+{
+    "PRINTERS" : {
+        "TITLE" : "Druckerverwaltung",
+        "ALL"   : "Drucker",
+        "ADD"   : "Drucker hinzufügen",
+        "MAN"   : "Hersteller",
+        "MODEL" : "Model",
+        "DRIVERACT": "Treiberverteilung",
+        "WINDOWSDRIVER" : "Treiber verteilung aktivieren",
+        "SELECTPRINTER" : "Drucker wählen!",
+        "JOBSACC" : "Aufträge akzeptieren",
+        "DELETSUCCESS" : "Drucker wurde erfolgriech gelöscht."
+    },
+    "Printer was enabled succesfully." : "Drucker wurde freigegeben.",
+    "Printer was disabled succesfully." : "Drucker wurde gesperrt.",
+    "Printer was created succesfully."  : "Drucker erfolgreich angelegt.",
+    "Windows driver was activated."     : "Treiberverteilung wurde aktiviert"
+}

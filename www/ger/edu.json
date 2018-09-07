@@ -1,0 +1,23 @@
+{
+    "EDU": {
+        "TITLE"        : "Raumüberwachnung",
+        "DEVICEROW"    : "Reihe",
+        "DEVICEPLACE"  : "Platz",
+        "ROOM"         : "Raum",
+        "LOGGEDINUSERS": "Angemeldete Benutzer",
+        "DEVICESINROOM": "Geräte",
+        "SELECTEDROOM" : "Gewählter Raum",
+        "DRAGHERE"     : "Hier her bewegen",
+        "ALLOWLOGIN"   : "Anmeldung erlaubt",
+        "ALLOWDIRECT"  : "Direkter Internetzugang",
+        "ALLOWPRINT"   : "Drucken erlaubt",
+        "PROXYACT"     : "Proxy an",
+        "PORTAL"       : "Portal",
+        "SELECTMYROOM" : "Auswählen",
+        "SELECTUSER"   : "Benutzer wählen",
+	"SHARE"        : "Dateie verteilen",
+	"COLLECT"      : "Deteien einsammeln"
+    },
+    "The selected users were disabled." : "Ausgewählte Benutzer wurden gesperrt.",
+    "The selected users were enabled." : "Ausgewählte Benutzer wurden freigegeben."
+}

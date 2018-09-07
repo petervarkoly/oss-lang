@@ -1,0 +1,17 @@
+{
+    "GROUPS": {
+        "TITLE": "Gruppen",
+        "ALL": "Gruppen",
+        "ADD": "Gruppe anlegen",
+        "MEMBERS": "Mitglieder",
+        "NOTMEMBER": "Verfügbar",
+        "DOUBLECLICKREM": "Doppelklick um aus der Gruppe zu entfernen",
+        "DOUBLECLICKADD": "Duppelklick um zur Gruppe hinzuzufügen",
+        "SELECTTYPE": "Gruppentyp wählen"
+    },
+    "Group was created.": "Gruppe wurde erstellt.",
+    "Group was deleted.": "Gruppe wurde gelöscht.",
+    "Group was modified.": "Gruppe wurde verändert.",
+    "User %s was added to group %s." : "Benutzer %s wurde der Gruppe %s hinzugefügt.",
+    "User %s was removed from group %s." : "Benutzer %s wurde der Gruppe %s entfernt."
+}

@@ -1,0 +1,23 @@
+{
+    "USERS":{
+            "ADD"   : "Add user",
+            "ALL"   : "Overview",
+            "BIRTHDAY": "Birthday", 
+            "FSQUOTA": "Disk quota",
+            "GROUPS": "Groups",
+            "MSQUOTA": "Mail quota",
+            "ROLE"  : "Role",
+            "TITLE" : "User administration",
+            "UID"   : "Username",
+            "IMPORT": "Import",
+            "ALLIMPORTS": "Old imports",
+            "EDITIMPORT": "Edit import",
+            "IMPORTRUNNING" : "Import running...",
+            "SHOWRUNNING" : "Show",
+            "USERDELETE": "Delet user?",
+            "USERDELETETITLE": "Delete"
+        },
+        
+    "%s ( %s %s ) was created with password '%s'" : "User %s ( %s %s ) was created with password '%s'",
+    "User was deleted" : "User was deleted."
+    }

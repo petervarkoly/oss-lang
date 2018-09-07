@@ -1,0 +1,17 @@
+{
+    "FAQS": {
+        "MYTITLE" : "FAQs verwalten",
+        "ADDTITLE": "FAQ hinzufügen",
+        "FAQTITLE": "Titel",
+        "ISSUE"   : "Thema",
+        "CATEGORIES" : "Zielgruppe",
+        "CONTENT" : "Inhalt hier eingeben..."
+
+    },
+    "Informations for all" : "Für alle",
+    "Informations for sysadmins" : "Für Systemadministratoren",
+    "Informations for teachers": "Für Lehrer",
+    "Informations for students" : "Für Schüler",
+    "Informations for administration" :  "Für Verwaltung",
+    "Unannounced Informations" : "Unveröffentlicht"
+}

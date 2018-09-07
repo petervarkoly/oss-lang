@@ -1,0 +1,12 @@
+{
+    "PROXY": {
+        "TITLE": "Proxy Einstellungen",
+        "SELECTROLE": "Rolle wählen",
+        "ROLE" : "Rolle",
+        "PERRULES" : "Gruppen",
+        "CUSTOMLIST": "Eigene Listen",
+        "GOODTITLE"  : "Whitelist",
+        "BADTITLE"   : "Blacklist"
+    },
+    "Custom list was written successfully": "White/Blackliste wurde erfolgreich geschrieben."
+}

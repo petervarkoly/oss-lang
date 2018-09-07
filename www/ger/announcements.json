@@ -1,0 +1,17 @@
+{
+    "ANNOUNCEMENTS":{
+        "MYTITLE" : "Benachrichtigungen verwalten",
+        "ADDTITLE" : "Neue Benachrichtigung",
+        "ANNTITLE": "Titel",
+        "ISSUE" : "Betreff",
+        "KEYWORDS" : "Schlagwörter",
+        "CATEGORIES": "Zielgruppe",
+        "CONTENT" : "Inhalt hier eingeben..."
+    },
+    "Informations for all" : "Für alle",
+    "Informations for sysadmins" : "Für Systemadministratoren",
+    "Informations for teachers": "Für Lehrer",
+    "Informations for students" : "Für Schüler",
+    "Informations for administration" :  "Für Verwaltung",
+    "Unannounced Informations" : "Unveröffentlicht"
+}

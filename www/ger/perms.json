@@ -1,0 +1,18 @@
+{
+    "PERMISSIONS" : {
+        "USERSSTITLE": "Berechtigungen für Benutzer",
+        "TITLE" : "Berechtigungen verwalten",
+        "USERDOUBLECLICK" : "Doppelklick zum bearbeiten eines Benutzers",
+        "GROUPSTITLE" : "Berechtigungen für Gruppen",
+        "GROUPDOUBLECLICK" : "Doppelklick zum bearbeiten einer Gruppe",
+        "INGROUP"   : "Gesetzte Berechtigungen",
+        "AVAIGROUP" : "Verfügbare Berechtigungen",
+        "GROUPEDIT" : "Gruppe bearbeiten",
+        "USEREDIT"  : "Benutzer bearbeiten",
+        "USER"      : "Gesetzte Berechtigungen",
+        "AVAIUSER"  : "Verfügbare Berechtigungen" 
+
+    },
+    "ACL was set succesfully.":"ACL wurden erfolgreich gesetzt."
+
+}

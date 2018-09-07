@@ -1,0 +1,11 @@
+{
+    "DEVICE": {
+        "ADD"      : "Gerät hinzufügen",
+        "SELECTIP" : "IP-Adresse wählen",
+        "WLANMAC"  : "WLAN-MAC-Adresse",
+        "MAC"      : "MAC-Adresse",
+        "SERIAL"   : "Seriennummer",
+        "INVENTARY": "Inventarnummer",
+        "SELECTROOM" : "Raum wählen"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "HWCONFIGS": {
+        "TITLE" : "Hardwarekonfigurationen verwalten",
+        "ALL"   : "Übersicht",
+        "ADD"   : "Hinzufügen",
+        "EDIT"  : "Bearbeiten",
+        "PARTITIONS" : "Partitionen",
+        "CLONETITLE" : "Clonen",
+        "DELETEQ"   : "Konfiguration löschen?",
+        "ALLROOMS"  : "Räume",
+        "HWTITLE"   : "Hardwarekonfiguration",
+        "GETDEVICE" : "Netzwerkinterface wählen",
+        "SELECT"    : "Gerättyp wählen"
+    },
+    "Hardware configuration was created." : "Hardwarekonfiguration wurde erfolgreich erstellt.",
+    "Hardware configuration was deleted succesfully.": "Hardwarekonfiguration wurde gelöscht."
+}
