@@ -24,6 +24,7 @@ Url:		http://www.openschoolserver.net
 Group:		Applications/Productivity	
 Source:		%{name}.tar.bz2
 BuildRequires:	apache2
+BuildRequires:	rsync
 PreReq:		apache2
 BuildArch:      noarch
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
