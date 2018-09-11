@@ -1,0 +1,12 @@
+{
+    "ADHOC": {
+        "ALL"      : "Übersicht",
+        "ADD"      : "Raum anlegen",
+        "TITLE"    : "AdHocraumverwaltung",
+        "MAC"      : "MAC-Adresse",
+        "SERIAL"   : "Seriennummer",
+        "INVENTARY": "Inventarnummer",
+        "SELECTROOM" : "Raum wählen"
+    }
+}
+
