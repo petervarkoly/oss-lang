@@ -110,7 +110,7 @@
             "EXECUTE"   : "Ausführen",
             "DROPFILE"  : "Datei hierher ziehen",
             "LANG"      : "Sprache",
-            "IDENTIFIER": "Identifier",
+            "IDENTIFIER": "Identifikator",
             "CLEANCLASSDIRS": "Klassenverzeichnis leeren",
             "RESETPW"   : "Passwort zurücksetzten",
             "TESTIMPORT": "Testimport",
