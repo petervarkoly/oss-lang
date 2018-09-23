@@ -6,7 +6,8 @@
         "EDIT"  : "Bearbeiten",
         "CLONETITLE": "Clonen",
         "PARTITIONS" : "Partitionen",
-        "DELETEQ"   : "Konfiguration löschen?"
+        "DELETEQ"   : "Konfiguration löschen?",
+	"MULTICAST" : "Multicast Klonen"
 
     }
 }

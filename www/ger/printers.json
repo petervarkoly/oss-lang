@@ -5,6 +5,7 @@
         "ADD"   : "Drucker hinzufügen",
         "MAN"   : "Hersteller",
         "MODEL" : "Model",
+	"ROOM"  : "Drucker in diesen Raum registrieren",
         "DRIVERACT": "Treiberverteilung",
         "WINDOWSDRIVER" : "Treiber verteilung aktivieren",
         "SELECTPRINTER" : "Drucker wählen!",

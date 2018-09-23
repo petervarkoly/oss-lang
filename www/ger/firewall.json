@@ -4,10 +4,10 @@
         "RDESKTOP": "Remotedesktop freigeben",
         "HTTPS" : "Https",
         "ADMIN" : "Adminoberfläche freigeben",
-        "ADDOUTGOING" : "Ausgehende Firewallzugriffsregel",
+        "ADDOUTGOING" : "Ausgehende Firewallregel erstellen",
         "TITLE" : "Firewallzugriffsregeln verwalten",
-        "INCOMING" : "Eingehende Firewallzugriffsregel hinzufügen",
-        "OUTGOING" : "Ausgehende Firewallzugriffsregel hinzufügen",
+        "INCOMING" : "Eingehende Firewallregel",
+        "OUTGOING" : "Ausgehende Firewallregel",
         "OTHER" : "Sonstige Ports freigeben",
         "OTHERERROR" : "Liste von Ports, durch Leerzeichen getrennt"
     },

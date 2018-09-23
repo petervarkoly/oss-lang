@@ -127,7 +127,16 @@
             "LICKEY"    : "Lizenzschlüssel", 
             "LICTYPE"    : "Lizenztyp",
             "SELECTFILE" : "Date wählen",
-            "LICCOUNT"  : "Anzahl"
+            "LICCOUNT"  : "Anzahl",
+	    "MON" : "Montag",
+	    "TUE" : "Dienstag",
+	    "WED" : "Mittwoch",
+	    "THU" : "Donnerstag",
+	    "FRI" : "Freitag",
+	    "SAT" : "Samstag",
+	    "SUN" : "Sonntag",
+	    "HOLIDAY" : "Feiertags",
+	    "ENTERTXT" : "Text eintragen"
 
         },
     "DIALOG" : {

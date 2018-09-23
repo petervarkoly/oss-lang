@@ -29,7 +29,15 @@
         "DELETETITLE": "Löschen?",
         "DELETMSG": "Räume werden gelöscht...",
         "DELETSUCCESS": "Raum erfolgreich gelöscht.",
-        "SELECTROOM": "Raum wählen!"
+        "SELECTROOM": "Raum wählen!",
+	"ACCESSTYPE": "Art der Kontrolle",
+	"ACTIONACC" : "Auszuführende Aktion",
+	"SHUTDOWN"  : "Herunterfahren",
+	"REBOOT"    : "Neu starten",
+	"WOL"       : "Aufwecken",
+	"ACCESSSTATES" : "Zugriffszeitplan",
+	"ACCESSALLTAB" : "Aktueller Zugriffszeitplan",
+	"SETNEWACC"    : "Neues Ereignis"
     },
     "DEVICE": {
         "ADD": "Gerät hinzufügen",
