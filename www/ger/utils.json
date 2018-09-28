@@ -61,6 +61,8 @@
             "SEND" : "Senden"
         },
     "PLACEHOLDERS":{
+            "TRUE"  : "Ja",
+            "FALSE" : "Nein",
             "ADDCATEGORY": "Kategorie hinzufügen",
             "CATTYPE" : "Type",
             "VALIDFROM" : "Gültig von",

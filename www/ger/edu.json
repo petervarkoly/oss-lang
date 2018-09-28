@@ -18,6 +18,13 @@
 	"SHARE"        : "Dateie verteilen",
 	"COLLECT"      : "Deteien einsammeln"
     },
+    "COLLECT": {
+        "TITLE" : "Dateien einsammeln",
+        "PROJCETNAME" : "Projektname",
+        "PROJECTNAME" : "Projektname",
+        "SORTINDIRS" : "Pro Benutzer ein Verzeichnis erstellen",
+        "CLEANUPDIR" : "Import und Export aufräumen"
+    },
     "The selected users were disabled." : "Ausgewählte Benutzer wurden gesperrt.",
     "The selected users were enabled." : "Ausgewählte Benutzer wurden freigegeben."
 }
