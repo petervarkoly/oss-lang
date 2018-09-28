@@ -10,7 +10,9 @@
         "WINDOWSDRIVER" : "Treiber verteilung aktivieren",
         "SELECTPRINTER" : "Drucker wählen!",
         "JOBSACC" : "Aufträge akzeptieren",
-        "DELETSUCCESS" : "Drucker wurde erfolgriech gelöscht."
+        "DELETSUCCESS" : "Drucker wurde erfolgriech gelöscht.",
+        "ADDQUE" : "Warteschlange hinzufügen",
+        "PRINTER" : "Druckergerät auswählen"
     },
     "Printer was enabled succesfully." : "Drucker wurde freigegeben.",
     "Printer was disabled succesfully." : "Drucker wurde gesperrt.",
