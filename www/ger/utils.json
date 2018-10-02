@@ -1,5 +1,6 @@
 {
      "BUTTONS": {
+	    "SETHWOFROOM" : "Hardwarekonfiguration des Raumes setzten",
 	    "SHUTDOWN" : "Herunterfahren",
 	    "REBOOT" : "neu Starten",
 	    "LOGOUT" : "Abmelden",	    
@@ -61,6 +62,7 @@
             "SEND" : "Senden"
         },
     "PLACEHOLDERS":{
+	    "EDIT"  : "Bearbeiten",
             "TRUE"  : "Ja",
             "FALSE" : "Nein",
             "ADDCATEGORY": "Kategorie hinzufügen",

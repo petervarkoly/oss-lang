@@ -6,7 +6,11 @@
         "MAC"      : "MAC-Adresse",
         "SERIAL"   : "Seriennummer",
         "INVENTARY": "Inventarnummer",
-        "SELECTROOM" : "Raum wählen"
+        "SELECTROOM" : "Raum wählen",
+	"GROUPS" : "Gruppen",
+        "SELECTCONTROL" : "Raumkonrolle",
+        "DEVSPERUSER" : "Gerät pro Benuzter",
+        "SELECTCOUNT" : "Anzahl der Geräte"
     }
 }
 
