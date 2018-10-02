@@ -146,5 +146,12 @@
     "DIALOG" : {
         "SETPWQ" : "Passwort ändern", 
         "MUSTCHANGE" : "Benutzer muss das Passwort ändern"
+    },
+    "CONFIGURATION" : {
+        "TITLE" : "Globale Konfiguration",
+        "BASIC" : "Grundkonfiguration",
+        "SETTINGS" : "Einstellungen",
+        "BACKUP" : "Backup"
     }
+
 } 
