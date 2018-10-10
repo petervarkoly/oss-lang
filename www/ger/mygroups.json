@@ -11,7 +11,7 @@
         "ADD"   : "Gruppe anlegen",
         "SELECTUSER" : "Benutzer aushwählen",
         "DELETETEMPLATE": "Profil löschen?",
-        "SHARETEMPLATE" : "Profil verteilen?",
+        "SHARETEMPLATE" : "Template verteilen?",
         "INTERNET"      : "Internetzugang?", 
         "LOGIN"         : "Anmedlung ?"
     },
