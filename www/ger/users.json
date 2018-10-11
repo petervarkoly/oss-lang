@@ -19,7 +19,9 @@
             "SETPWQ"     : "Passwort ändern", 
             "MUSTCHANGE" : "Benutzer muss passwort ändern",
             "SELECTUSER" : "User wählen!",
-	    "CTRLA" : "CTRL+A drücken um alle Klassen auszuwählen."
+	    "CTRLA" : "CTRL+A drücken um alle Klassen auszuwählen.",
+	    "MYGROUPS" : "Mitglied der Gruppen/Klassen",
+	    "CLASSES" : "Zu Klasse hinzufügen"
         },
     "%s ( %s %s ) was created with password '%s'" : "Benutzer %s ( %s %s ) wurde mit Passwort '%s' angelegt",
     "User was deleted" : "Benutzer wurde gelöscht"
