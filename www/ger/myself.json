@@ -1,7 +1,10 @@
 {
     "MYSELF": {
-        "ABOUT" : "Ãœbersicht",
+        "ABOUT" : "Übersicht",
         "ANNOUNCE": "Benachrichtigungen",
-        "FAQS" : "FAQs"
+        "FAQS" : "FAQs",
+	"ADD" : "Gerät hinzufügen",
+	"DEVS" : "Meine Geräte",
+	"MYDEVS" : "Übersicht"
     }
 }
