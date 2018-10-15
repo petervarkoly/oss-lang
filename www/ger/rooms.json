@@ -1,6 +1,13 @@
 {
     "ROOMS": {
+        "ROOMS": "Räume",
         "TITLE": "Räume",
+	"ACCESSSTATES" : "Raumregeln",
+        "ACCESSALLTAB" : "Übersicht",
+        "ACCESSTYPE" : "Regelart",
+        "ACTIONACC" : "Aktion",
+        "ACCESSLIST" : "Zeitplan",
+        "FIRERULE" : "Firewallregel",
         "ALL": "Alle",
         "ADD": "Raum anlegen",
         "ALLPRINTERS": "Verfügbare Drucker",
@@ -18,6 +25,7 @@
         "SELECTROWS": "Reihen",
         "SELECTPLACES": "Plätze pro Reihe",
         "DEVICES": "Geräte",
+        "SETACC": "Zugriffsregel setzten",
         "SETACCESS": "Zugriff verwalten",
         "PROXY": "Proxy",
         "DIRECT": "Direkter Internetzugang",
@@ -58,5 +66,11 @@
     "US": "Update geplant",
     "DS": "Deinstallation geplant",
     "IF": "Fehlerhafte Installation",
-    "DF": "Fehlerhafte Deinstalltion"
+    "DF": "Fehlerhafte Deinstalltion",
+    "shutdown" : "Herunterfahren",
+    "wol" : "Aufwecken",
+    "reboot" : "Neustarten",
+    "FW" : "Firewallregel",
+    "ACT" : "Aktion",
+    "DEF" : "Standard (FW)"
 }

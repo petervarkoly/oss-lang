@@ -1,5 +1,6 @@
 {
      "BUTTONS": {
+	    "UPDATES" : "Aktualisierungen",
             "SETFSQUOTA" : "Filesystemquota setzten",
             "SETMSQUOTA" : "Mailsystemquota setzten",
 	    "SETHWOFROOM" : "Hardwarekonfiguration des Raumes setzten",
@@ -134,13 +135,13 @@
             "LICTYPE"    : "Lizenztyp",
             "SELECTFILE" : "Date wählen",
             "LICCOUNT"  : "Anzahl",
-	    "MON" : "Montag",
-	    "TUE" : "Dienstag",
-	    "WED" : "Mittwoch",
-	    "THU" : "Donnerstag",
-	    "FRI" : "Freitag",
-	    "SAT" : "Samstag",
-	    "SUN" : "Sonntag",
+            "MON": "Mo",
+            "TUE": "Di",
+            "WED": "Mi",
+            "THU": "Do",
+            "FRI": "Fr",
+            "SAT": "Sa",
+            "SUN": "So",
 	    "HOLIDAY" : "Feiertags",
 	    "ENTERTXT" : "Text eintragen"
 
