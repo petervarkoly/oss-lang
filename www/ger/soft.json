@@ -1,5 +1,6 @@
 {
     "SOFTWARE": {
+        "DOWNLOADINPROGRESS": "Pakete werden herunterladen",
         "TITLE": "Software verwalten",
         "ALL": "Übersicht",
         "AVAILABLE": "Verfügbare Pakete",
