@@ -1,5 +1,10 @@
 {
     "SOFTWARE": {
+        "DISPLAYNAME" : "Beschreibung/Displayname",
+	"WEIGHT" : "Gewichtung",
+	"VERSION" : "Version",
+	"ADDSOFTWARE" : "Software hinzufügen",
+	"ISAVAI" : "Sources vorhanden.",
         "DOWNLOADINPROGRESS": "Pakete werden herunterladen",
         "TITLE": "Software verwalten",
         "ALL": "Übersicht",
