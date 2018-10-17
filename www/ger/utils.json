@@ -3,7 +3,7 @@
 	    "UPDATES" : "Aktualisierungen",
             "SETFSQUOTA" : "Filesystemquota setzten",
             "SETMSQUOTA" : "Mailsystemquota setzten",
-	    "SETHWOFROOM" : "Hardwarekonfiguration des Raumes setzten",
+	    "SETHWOFROOM" : "HWConf des Raumes setzten",
 	    "SHUTDOWN" : "Herunterfahren",
 	    "REBOOT" : "neu Starten",
 	    "LOGOUT" : "Abmelden",	    
