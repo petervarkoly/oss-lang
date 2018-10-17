@@ -1,5 +1,11 @@
 {
     "HWCONFIGS": {
+	"OS" : "Betriessystem",
+	"JOINTYPE" : "Windows Anmeldung",
+	"FORMAT" : "Dateisystem",
+	"TOOL" : "Imagingtool",
+	"MULTICAST" : "Multicast Imaging starten",
+	"TIME" : "Erstellungsdatum",
         "TITLE" : "Hardwarekonfigurationen verwalten",
         "ALL"   : "Übersicht",
         "ADD"   : "Hinzufügen",
