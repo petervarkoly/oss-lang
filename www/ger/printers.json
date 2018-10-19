@@ -1,21 +1,21 @@
 {
-    "PRINTERS" : {
-        "TITLE" : "Druckerverwaltung",
-        "ALL"   : "Drucker",
-        "ADD"   : "Drucker hinzufügen",
-        "MAN"   : "Hersteller",
-        "MODEL" : "Model",
-	"ROOM"  : "Drucker in diesen Raum registrieren",
+    "PRINTERS": {
+        "ADD": "Drucker hinzufügen",
+        "ADDQUE": "Warteschlange hinzufügen",
+        "ALL": "Drucker",
+        "DELETSUCCESS": "Drucker wurde erfolgriech gelöscht.",
         "DRIVERACT": "Treiberverteilung",
-        "WINDOWSDRIVER" : "Treiber verteilung aktivieren",
-        "SELECTPRINTER" : "Drucker wählen!",
-        "JOBSACC" : "Aufträge akzeptieren",
-        "DELETSUCCESS" : "Drucker wurde erfolgriech gelöscht.",
-        "ADDQUE" : "Warteschlange hinzufügen",
-        "PRINTER" : "Druckergerät auswählen"
+        "JOBSACC": "Aufträge akzeptieren",
+        "MAN": "Hersteller",
+        "MODEL": "Model",
+        "PRINTER": "Druckergerät auswählen",
+        "ROOM": "Drucker in diesen Raum registrieren",
+        "SELECTPRINTER": "Drucker wählen!",
+        "TITLE": "Druckerverwaltung",
+        "WINDOWSDRIVER": "Treiber verteilung aktivieren"
     },
-    "Printer was enabled succesfully." : "Drucker wurde freigegeben.",
-    "Printer was disabled succesfully." : "Drucker wurde gesperrt.",
-    "Printer was created succesfully."  : "Drucker erfolgreich angelegt.",
-    "Windows driver was activated."     : "Treiberverteilung wurde aktiviert"
+    "Printer was created succesfully.": "Drucker erfolgreich angelegt.",
+    "Printer was disabled succesfully.": "Drucker wurde gesperrt.",
+    "Printer was enabled succesfully.": "Drucker wurde freigegeben.",
+    "Windows driver was activated.": "Treiberverteilung wurde aktiviert"
 }

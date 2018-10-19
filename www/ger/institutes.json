@@ -1,14 +1,14 @@
 {
-"INSTITUTES": {
-    "ADD"       : "Server hinzufügen",
-    "ALL"       : "Server",
-    "CONFIGURATIONS" : "Grundeinstellung",
-    "CUSTOMER"  : "Kunde",
-    "NETWORKS"  : "Netzwerke",
-    "SELECTINSTITUTE": "Institute wählen",
-    "TITLE"     : "Cephalix",
-    "TRANSPORT" : "Transportnetz",
-    "TYPE"      : "Art der Einrichtung"
-},
-"Instute was created succesfully. Regcode: %s" : "Institute wurde erfolgreich erstellt. Regcode: %s"
+    "INSTITUTES": {
+        "ADD": "Server hinzufügen",
+        "ALL": "Server",
+        "CONFIGURATIONS": "Grundeinstellung",
+        "CUSTOMER": "Kunde",
+        "NETWORKS": "Netzwerke",
+        "SELECTINSTITUTE": "Institute wählen",
+        "TITLE": "Cephalix",
+        "TRANSPORT": "Transportnetz",
+        "TYPE": "Art der Einrichtung"
+    },
+    "Instute was created succesfully. Regcode: %s": "Institute wurde erfolgreich erstellt. Regcode: %s"
 }

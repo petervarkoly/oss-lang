@@ -1,13 +1,12 @@
 {
     "HWCONFIGS": {
-        "TITLE" : "Hardwarekonfigurationen",
-        "ALL"   : "Übersicht",
-        "ADD"   : "Konfiguration hinzufügen",
-        "EDIT"  : "Bearbeiten",
+        "ADD": "Konfiguration hinzufügen",
+        "ALL": "Übersicht",
         "CLONETITLE": "Clonen",
-        "PARTITIONS" : "Partitionen",
-        "DELETEQ"   : "Konfiguration löschen?",
-	"MULTICAST" : "Multicast Klonen"
-
+        "DELETEQ": "Konfiguration löschen?",
+        "EDIT": "Bearbeiten",
+        "MULTICAST": "Multicast Klonen",
+        "PARTITIONS": "Partitionen",
+        "TITLE": "Hardwarekonfigurationen"
     }
 }

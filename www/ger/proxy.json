@@ -1,12 +1,12 @@
 {
+    "Custom list was written successfully": "White/Blackliste wurde erfolgreich geschrieben.",
     "PROXY": {
-        "TITLE": "Proxy Einstellungen",
-        "SELECTROLE": "Rolle wählen",
-        "ROLE" : "Rolle",
-        "PERRULES" : "Gruppen",
+        "BADTITLE": "Blacklist",
         "CUSTOMLIST": "Eigene Listen",
-        "GOODTITLE"  : "Whitelist",
-        "BADTITLE"   : "Blacklist"
-    },
-    "Custom list was written successfully": "White/Blackliste wurde erfolgreich geschrieben."
+        "GOODTITLE": "Whitelist",
+        "PERRULES": "Gruppen",
+        "ROLE": "Rolle",
+        "SELECTROLE": "Rolle wählen",
+        "TITLE": "Proxy Einstellungen"
+    }
 }

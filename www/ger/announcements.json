@@ -1,17 +1,17 @@
 {
-    "ANNOUNCEMENTS":{
-        "MYTITLE" : "Benachrichtigungen verwalten",
-        "ADDTITLE" : "Neue Benachrichtigung",
+    "ANNOUNCEMENTS": {
+        "ADDTITLE": "Neue Benachrichtigung",
         "ANNTITLE": "Titel",
-        "ISSUE" : "Betreff",
-        "KEYWORDS" : "Schlagwörter",
         "CATEGORIES": "Zielgruppe",
-        "CONTENT" : "Inhalt hier eingeben..."
+        "CONTENT": "Inhalt hier eingeben...",
+        "ISSUE": "Betreff",
+        "KEYWORDS": "Schlagwörter",
+        "MYTITLE": "Benachrichtigungen verwalten"
     },
-    "Informations for all" : "Für alle",
-    "Informations for sysadmins" : "Für Systemadministratoren",
+    "Informations for administration": "Für Verwaltung",
+    "Informations for all": "Für alle",
+    "Informations for students": "Für Schüler",
+    "Informations for sysadmins": "Für Systemadministratoren",
     "Informations for teachers": "Für Lehrer",
-    "Informations for students" : "Für Schüler",
-    "Informations for administration" :  "Für Verwaltung",
-    "Unannounced Informations" : "Unveröffentlicht"
+    "Unannounced Informations": "Unveröffentlicht"
 }

@@ -1,17 +1,16 @@
 {
     "FAQS": {
-        "MYTITLE" : "FAQs verwalten",
         "ADDTITLE": "FAQ hinzufügen",
+        "CATEGORIES": "Zielgruppe",
+        "CONTENT": "Inhalt hier eingeben...",
         "FAQTITLE": "Titel",
-        "ISSUE"   : "Thema",
-        "CATEGORIES" : "Zielgruppe",
-        "CONTENT" : "Inhalt hier eingeben..."
-
+        "ISSUE": "Thema",
+        "MYTITLE": "FAQs verwalten"
     },
-    "Informations for all" : "Für alle",
-    "Informations for sysadmins" : "Für Systemadministratoren",
+    "Informations for administration": "Für Verwaltung",
+    "Informations for all": "Für alle",
+    "Informations for students": "Für Schüler",
+    "Informations for sysadmins": "Für Systemadministratoren",
     "Informations for teachers": "Für Lehrer",
-    "Informations for students" : "Für Schüler",
-    "Informations for administration" :  "Für Verwaltung",
-    "Unannounced Informations" : "Unveröffentlicht"
+    "Unannounced Informations": "Unveröffentlicht"
 }

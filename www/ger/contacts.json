@@ -1,14 +1,14 @@
 {
     "CONTACTS": {
-        "TITLE": "Kontakte verwalten",
-        "ALL" : "Übersicht",
-        "ADD" : "Kontakt hinzufügen",
-        "CATEGORIES": "Zielgruppe"
+        "ADD": "Kontakt hinzufügen",
+        "ALL": "Übersicht",
+        "CATEGORIES": "Zielgruppe",
+        "TITLE": "Kontakte verwalten"
     },
-    "Informations for all" : "Für alle",
-    "Informations for sysadmins" : "Für Systemadministratoren",
+    "Informations for administration": "Für Verwaltung",
+    "Informations for all": "Für alle",
+    "Informations for students": "Für Schüler",
+    "Informations for sysadmins": "Für Systemadministratoren",
     "Informations for teachers": "Für Lehrer",
-    "Informations for students" : "Für Schüler",
-    "Informations for administration" :  "Für Verwaltung",
-    "Unannounced Informations" : "Unveröffentlicht"
+    "Unannounced Informations": "Unveröffentlicht"
 }

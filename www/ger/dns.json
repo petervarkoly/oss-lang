@@ -1,14 +1,14 @@
 {
-    "DNS" : {
-        "TITLE" : "Nameserver",
-	"RECTYPE" : "Recordtype",
-	"RECNAME" : "Name",
-	"RECDATA" : "Wert",
-	"SELECTDOMAIN" : "Domain auswählen",
-	"ADDRECORD" : "DNS-Eintrag hinzufügen",
-	"RECORDTYPE" : "DNS-Type",
-	"RECORDNAME" : "Name",
-	"RECORDDATA" : "Wert",
-	"RECORDS" : "Vorhandene Einträge"
+    "DNS": {
+        "ADDRECORD": "DNS-Eintrag hinzufügen",
+        "RECDATA": "Wert",
+        "RECNAME": "Name",
+        "RECORDDATA": "Wert",
+        "RECORDNAME": "Name",
+        "RECORDS": "Vorhandene Einträge",
+        "RECORDTYPE": "DNS-Type",
+        "RECTYPE": "Recordtype",
+        "SELECTDOMAIN": "Domain auswählen",
+        "TITLE": "Nameserver"
     }
 }

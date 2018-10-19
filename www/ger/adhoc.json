@@ -1,16 +1,15 @@
 {
     "ADHOC": {
-        "ALL"      : "Übersicht",
-        "ADD"      : "Raum anlegen",
-        "TITLE"    : "AdHocraumverwaltung",
-        "MAC"      : "MAC-Adresse",
-        "SERIAL"   : "Seriennummer",
+        "ADD": "Raum anlegen",
+        "ALL": "Übersicht",
+        "DEVSPERUSER": "Gerät pro Benuzter",
+        "GROUPS": "Gruppen",
         "INVENTARY": "Inventarnummer",
-        "SELECTROOM" : "Raum wählen",
-	"GROUPS" : "Gruppen",
-        "SELECTCONTROL" : "Raumkonrolle",
-        "DEVSPERUSER" : "Gerät pro Benuzter",
-        "SELECTCOUNT" : "Anzahl der Geräte"
+        "MAC": "MAC-Adresse",
+        "SELECTCONTROL": "Raumkonrolle",
+        "SELECTCOUNT": "Anzahl der Geräte",
+        "SELECTROOM": "Raum wählen",
+        "SERIAL": "Seriennummer",
+        "TITLE": "AdHocraumverwaltung"
     }
 }
-

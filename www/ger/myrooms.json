@@ -1,7 +1,7 @@
 {
     "MYROOMS": {
-        "TITLE" : "Smartrooms",
-        "ALL"   : "Übersicht",
-        "ADD"   : "Raum anlegen"
+        "ADD": "Raum anlegen",
+        "ALL": "Übersicht",
+        "TITLE": "Smartrooms"
     }
 }

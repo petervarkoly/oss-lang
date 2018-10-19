@@ -1,23 +1,23 @@
 {
     "MYGROUPS": {
-        "TITLE" : "Schüler",
-        "USERSINROOM" : "Mitglieder",
-        "MEMBERS" : "Mitglieder",
-	"AVAIUSERS": "Verfügbar",
-        "DOUBLECLICKREM": "Doppelklick um aus der Gruppe zu entfernen",
-        "DOUBLECLICKADD": "Duppelklick um zur Gruppe hinzuzufügen",
-	"DETAILS" : "Bearbeiten",
-        "ALL"   : "Übersicht",
-        "ADD"   : "Gruppe anlegen",
-        "SELECTUSER" : "Benutzer aushwählen",
+        "ADD": "Gruppe anlegen",
+        "ALL": "Übersicht",
+        "AVAIUSERS": "Verfügbar",
         "DELETETEMPLATE": "Profil löschen?",
-        "SHARETEMPLATE" : "Template verteilen?",
-        "INTERNET"      : "Internetzugang?", 
-        "LOGIN"         : "Anmedlung ?"
+        "DETAILS": "Bearbeiten",
+        "DOUBLECLICKADD": "Duppelklick um zur Gruppe hinzuzufügen",
+        "DOUBLECLICKREM": "Doppelklick um aus der Gruppe zu entfernen",
+        "INTERNET": "Internetzugang?",
+        "LOGIN": "Anmedlung ?",
+        "MEMBERS": "Mitglieder",
+        "SELECTUSER": "Benutzer aushwählen",
+        "SHARETEMPLATE": "Template verteilen?",
+        "TITLE": "Schüler",
+        "USERSINROOM": "Mitglieder"
     },
-    "The selected users were disabled." : "Ausgewählte Benutzer wurden gesperrt.",
-    "The selected users were enabled." : "Ausgewählte Benutzer wurden freigegeben.",
-    "The template for the selected users was copied." : "Das Profil wurde an die ausgewählten Benutzer verteilt.",
-    "The windows profile(s) of the user was removed." : "Die Windowsprofile der ausgewählten Benutzer wurden gelöscht.",
-    "The password of the selected users was reseted" : "Das Passwort der ausgewählten Benutzer wurde gesetzt."
+    "The password of the selected users was reseted": "Das Passwort der ausgewählten Benutzer wurde gesetzt.",
+    "The selected users were disabled.": "Ausgewählte Benutzer wurden gesperrt.",
+    "The selected users were enabled.": "Ausgewählte Benutzer wurden freigegeben.",
+    "The template for the selected users was copied.": "Das Profil wurde an die ausgewählten Benutzer verteilt.",
+    "The windows profile(s) of the user was removed.": "Die Windowsprofile der ausgewählten Benutzer wurden gelöscht."
 }
