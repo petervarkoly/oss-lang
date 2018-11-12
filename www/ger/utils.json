@@ -116,7 +116,7 @@
 	"MAC" : "MAC-Adresse fehlt!",
 	"NAME": "Name fehlt!",
 	"PATTERNMAC": "MAC-Adresse ungültig!",
-	"SURNAME" : "Nachnamne fehlt!"	
+	"SURNAME" : "Nachname fehlt!"	
     },
     "PLACEHOLDERS": {
         "ADDCATEGORY": "Kategorie hinzufügen",
