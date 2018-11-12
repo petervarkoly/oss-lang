@@ -1,0 +1,9 @@
+{
+    "GUESTUSERS":{
+	"ALL"   :"Übersicht",
+	"ADD"   :"Hinzufügen",
+        "DELETE":"Löschen?",
+        "TITLE" :"Gastnutzer"
+    },
+    "Guest Users were created succesfully": "Gastnutzer wurden erfolgreich angelegt."
+}

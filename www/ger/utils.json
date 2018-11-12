@@ -40,6 +40,7 @@
         "ROLES": "Rollen",
         "ROOMS": "Räume",
         "ROOMSIZE": "Anzeigegröße",
+        "SEARCH" : "Suchen",
         "SELECT": "Auswählen",
         "SEND": "Senden",
         "SETACCESS": "Zugriff",
@@ -106,6 +107,16 @@
         "STUDENTSONLY": "Nur Schüler",
         "TITLE": "Raumüberwachnung",
         "UTITLE": "Datei verteilen"
+    },
+    "ERRORS":{
+	"BIRTHDAYREQ": "Geburtstag fehlt!",
+	"DESCRERR" : "Beschreibung fehlt!",
+	"GIVENNAME" : "Vornamen fehlt!",
+	"HWCERR" : "Hardwarekonfiguration fehlt!.",
+	"MAC" : "MAC-Adresse fehlt!",
+	"NAME": "Name fehlt!",
+	"PATTERNMAC": "MAC-Adresse ungültig!",
+	"SURNAME" : "Nachnamne fehlt!"	
     },
     "PLACEHOLDERS": {
         "ADDCATEGORY": "Kategorie hinzufügen",
@@ -196,5 +207,10 @@
         "RESTART": "Neu starten",
         "SHUTDOWN": "Ausschalten",
         "UNBLOCK": "Entsperren"
-    }
+    },
+    "students": "Schüler",
+    "teachers": "Lehrer",
+    "sysadmins" : "Sysadmins",
+    "administration": "Verwaltung",
+    "workstations" : "Workstation"
 }
