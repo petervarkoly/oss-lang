@@ -3,9 +3,13 @@
     "PROXY": {
         "BADTITLE": "Blacklist",
         "CUSTOMLIST": "Eigene Listen",
+	"DISABLED": "verbieten",
+	"ENABLED": "erlauben",
+	"ENDIS": "Alles",
         "GOODTITLE": "Whitelist",
         "PERRULES": "Gruppen",
         "ROLE": "Rolle",
+	"RULES" : "Kategorien",
         "SELECTROLE": "Rolle wählen",
         "TITLE": "Proxy Einstellungen"
     }
