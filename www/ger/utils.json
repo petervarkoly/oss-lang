@@ -52,6 +52,7 @@
         "SETASMASTER": "Master",
         "SETAVAI": "Verfügbar",
         "SETDEF": "Standard",
+        "SETDHCP": "DHCP Parameter setzten",
         "SETFSQUOTA": "Filesystemquota setzten",
         "SETHWOFROOM": "HWConf des Raumes setzten",
         "SETMSQUOTA": "Mailsystemquota setzten",
