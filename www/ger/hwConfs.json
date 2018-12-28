@@ -14,6 +14,7 @@
         "OS": "Betriessystem",
         "PARTITIONS": "Partitionen",
         "SELECT": "Gerättyp wählen",
+	"SELECTDEVICE": "Gerät(e) wählen",
         "TIME": "Erstellungsdatum",
         "TITLE": "Hardwarekonfigurationen verwalten",
         "TOOL": "Imagingtool"

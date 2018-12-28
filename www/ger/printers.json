@@ -1,5 +1,6 @@
 {
     "PRINTERS": {
+        "ACTIVEJOBS": "Aktive Aufträge",
         "ADD": "Drucker hinzufügen",
         "ADDQUE": "Warteschlange hinzufügen",
         "ALL": "Drucker",
@@ -10,7 +11,9 @@
         "MODEL": "Model",
         "PRINTER": "Druckergerät auswählen",
         "ROOM": "Drucker in diesen Raum registrieren",
+        "SELECTDRIVER": "Druckertreiber",
         "SELECTPRINTER": "Drucker wählen!",
+        "STATE": "Status",
         "TITLE": "Druckerverwaltung",
         "WINDOWSDRIVER": "Treiber verteilung aktivieren"
     },
