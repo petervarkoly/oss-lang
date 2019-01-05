@@ -229,5 +229,14 @@
     "teachers": "Lehrer",
     "sysadmins" : "Sysadmins",
     "administration": "Verwaltung",
-    "workstations" : "Workstation"
+    "workstations" : "Workstation",
+    "work" : "Berufsschule",
+    "global" : "Gesamtschule",
+    "primary": "Grundschule",
+    "gymnasium" : "Gymnasium",
+    "secondary" : "Haupt-/Mittelschule",
+    "secondary_school" : "Sekundarschule",
+    "real" : "Realschule",
+    "special" : "Sonderschule",
+    "other" : "Sonstige"
 }

@@ -20,5 +20,6 @@
     "Printer was created succesfully.": "Drucker erfolgreich angelegt.",
     "Printer was disabled succesfully.": "Drucker wurde gesperrt.",
     "Printer was enabled succesfully.": "Drucker wurde freigegeben.",
-    "Windows driver was activated.": "Treiberverteilung wurde aktiviert"
+    "Windows driver was activated.": "Treiberverteilung wurde aktiviert",
+    "The MAC address '%s' is not valid." : "'%s' ist keine gültige MAC-Adresse"
 }

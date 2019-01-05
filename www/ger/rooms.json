@@ -1,6 +1,8 @@
 {
     "ACT": "Aktion",
     "Access state in was set succesfully.": "Zugriff erfolgreich gesetzt.",
+    "Acces was created succesfully" : "Zugriffsregel erfolgreich erstellt.",
+    "Access state in %s was set succesfully." : "Zugriffsregel in %s erfolgreich gesetzt.",
     "DEF": "Standard (FW)",
     "DEVICE": {
         "ADD": "Gerät hinzufügen",

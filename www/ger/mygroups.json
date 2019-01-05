@@ -10,7 +10,8 @@
         "INTERNET": "Internetzugang?",
         "LOGIN": "Anmedlung ?",
         "MEMBERS": "Mitglieder",
-        "SELECTUSER": "Benutzer aushwählen",
+	"SELECTGROUP" : "Gruppe wählen!",
+        "SELECTUSER": "Benutzer wählen",
         "SHARETEMPLATE": "Template verteilen?",
         "TITLE": "Schüler",
         "USERSINROOM": "Mitglieder"
@@ -19,5 +20,6 @@
     "The selected users were disabled.": "Ausgewählte Benutzer wurden gesperrt.",
     "The selected users were enabled.": "Ausgewählte Benutzer wurden freigegeben.",
     "The template for the selected users was copied.": "Das Profil wurde an die ausgewählten Benutzer verteilt.",
-    "The windows profile(s) of the user was removed.": "Die Windowsprofile der ausgewählten Benutzer wurden gelöscht."
+    "The windows profile(s) of the user was removed.": "Die Windowsprofile der ausgewählten Benutzer wurden gelöscht.",
+    "File '%s' successfully saved to user '%s'." : "Datei '%s', erfolgreich an '%s' verteilt."
 }

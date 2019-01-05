@@ -7,5 +7,6 @@
         "SELECTROOM": "Raum wählen",
         "SERIAL": "Seriennummer",
         "WLANMAC": "WLAN-MAC-Adresse"
-    }
+    },
+   "Devices were created succesfully.": "Gerät erfolgreich registriert."
 }
