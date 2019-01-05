@@ -1,4 +1,7 @@
 {
+    "GUESTUSERS": {
+        "ACCCOUNT" : "Anzahl der Konten"
+    },
     "GROUPS": {
         "ADD": "Gruppe anlegen",
         "ALL": "Gruppen",
