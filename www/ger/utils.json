@@ -38,6 +38,7 @@
         "MEDIUM": "Mittel",
         "MULTICAST": "Multicast Klonen",
         "OK": "OK",
+        "RESTART": "Restart",
         "REBOOT": "Neustarten",
         "REMOVE": "Entfernen",
         "RESET": "Zurücksetzen",
@@ -130,6 +131,7 @@
 	"SURNAME" : "Nachname fehlt!"	
     },
     "PLACEHOLDERS": {
+	"ACTIVE" : "Wird ausgeführt",
         "ADDCATEGORY": "Kategorie hinzufügen",
         "ADMINPW": "Adminpasswort",
         "ALLCLASSES": "Alle Klassen",
@@ -147,6 +149,7 @@
         "DROPFILE": "Datei hierher ziehen",
         "EDIT": "Bearbeiten",
         "EMAIL": "EMailadresse",
+	"ENABLED" : "Aktiviert",
         "ENTERTXT": "Text eintragen",
         "EXECUTE": "Ausführen",
 	"EXTPORT": "Außenport",
