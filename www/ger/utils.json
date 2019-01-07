@@ -48,6 +48,7 @@
         "ROOMS": "Räume",
         "ROOMSIZE": "Anzeigegröße",
         "SEARCH" : "Suchen",
+        "SELECTROOM": "Raum wählen",
         "SELECT": "Auswählen",
         "SEND": "Senden",
         "SET": "Setzen",
@@ -227,6 +228,11 @@
         "RESTART": "Neu starten",
         "SHUTDOWN": "Ausschalten",
         "UNBLOCK": "Entsperren"
+    },
+    "SYSTEM": {
+	"DASHBOARD": "Systemübersicht",
+	"SERVICES" : "Dienste",
+	"STATUS" : "Systemstatus"
     },
     "students": "Schüler",
     "teachers": "Lehrer",
