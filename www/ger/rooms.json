@@ -11,6 +11,8 @@
         "MAC": "MAC-Adresse",
         "SELECTIP": "IP-Adresse wählen",
         "SERIAL": "Seriennummer",
+	"ROW" : "Reihe",
+	"PLACE" : "Platz",
         "WLANMAC": "WLAN-MAC-Adresse"
     },
     "DF": "Fehlerhafte Deinstalltion",
@@ -35,6 +37,7 @@
         "CLIENTPRINT": "Geräte und Drucker",
         "DEFAULTPRINTER": "Standarddrucker",
         "DELETE": "Räume löschen?",
+        "DELETEQ": "Gerät(e) löschen?",
         "DELETETITLE": "Löschen?",
         "DELETMSG": "Räume werden gelöscht...",
         "DELETSUCCESS": "Raum erfolgreich gelöscht.",
