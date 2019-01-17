@@ -95,7 +95,8 @@
     "DIALOG": {
         "MUSTCHANGE": "Benutzer muss das Passwort ändern",
 	"RESPONSE": "Rückmeldungen",
-        "SETPWQ": "Passwort für Workstationsuser setzten."
+        "SETPWQ": "Passwort für Benutzer setzten.",
+        "SETPWWORK": "Passwort für Workstationsuser setzten."
     },
     "EDU": {
         "ALLOWDIRECT": "Direkter Internetzugang",
