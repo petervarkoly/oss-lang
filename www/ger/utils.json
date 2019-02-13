@@ -34,6 +34,7 @@
         "IMPORTGROUP": "Gruppen importieren",
         "IMPORTROOM": "Räume importieren",
         "INSTALLSTATUS": "Installationen",
+	"KEYS" : "Schlüssel",
         "LOGOUT": "Abmelden",
         "LOCK": "Sperren",
         "MEDIUM": "Mittel",
@@ -133,9 +134,10 @@
 	"MAC" : "MAC-Adresse fehlt!",
 	"NAME": "Name fehlt!",
 	"PATTERNMAC": "MAC-Adresse ungültig!",
-	"SURNAME" : "Nachname fehlt!"	
+	"SURNAME" : "Nachname fehlt!"
     },
     "PLACEHOLDERS": {
+	"ACTION" : "Aktion",
 	"ACTIVE" : "Wird ausgeführt",
         "ADDCATEGORY": "Kategorie hinzufügen",
         "ADMINPW": "Adminpasswort",
@@ -234,6 +236,7 @@
         "UNBLOCK": "Entsperren"
     },
     "SYSTEM": {
+	"ADDONS"   : "Addons",
 	"DASHBOARD": "Systemübersicht",
 	"SERVICES" : "Dienste",
 	"STATUS" : "Systemstatus",
