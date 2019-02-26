@@ -2,6 +2,7 @@
     "INSTITUTES": {
         "ADD": "Server hinzufügen",
         "ALL": "Server",
+	"AYTTEMPLATE" : "Installationsvorlage",
         "CONFIGURATIONS": "Grundeinstellung",
         "CUSTOMER": "Kunde",
 	"CATEGORIES": "Kategorien",
@@ -10,7 +11,8 @@
         "SELECTINSTITUTE": "Institute wählen",
         "TITLE": "Cephalix",
         "TRANSPORT": "Transportnetz",
-        "TYPE": "Art der Einrichtung"
+        "TYPE": "Art der Einrichtung",
+        "UPDATEQ": "Update starten?"
     },
     "Instute was created succesfully. Regcode: %s": "Institute wurde erfolgreich erstellt. Regcode: %s"
 }
