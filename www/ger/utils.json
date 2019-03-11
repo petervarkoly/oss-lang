@@ -136,7 +136,8 @@
 	"MAC" : "MAC-Adresse fehlt!",
 	"NAME": "Name fehlt!",
 	"PATTERNMAC": "MAC-Adresse ungültig!",
-	"SURNAME" : "Nachname fehlt!"
+	"SURNAME" : "Nachname fehlt!",
+	"PWNMATCH" : "Passwörter stimmen nicht überein"
     },
     "PLACEHOLDERS": {
 	"ACTION" : "Aktion",
