@@ -198,6 +198,7 @@
         "NAME": "Name",
         "NETMASK": "Netzwerkmaske",
         "NETWORK": "Netzwerk (intern)",
+	"NEXT": "Nächste standard Werte",
         "NMSERVERNET": "Servernetz",
         "NMTRNET": "Netzwerkmaske Transportnetz",
         "PASSWORD": "Passwort",
