@@ -1,6 +1,6 @@
 {
     "GUESTUSERS":{
-	"ACCOUNT" :"Anzahl der Benutzeronten",
+	"ACCOUNT" :"Anzahl der Benutzerkonten",
 	"ALL"   :"Übersicht",
 	"ADD"   :"Hinzufügen",
         "DELETE":"Löschen?",
