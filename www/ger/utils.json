@@ -23,7 +23,7 @@
         "DISINTERNET": "Internet",
         "DISLOGIN": "Anmeldung",
         "DOWNLOAD": "Herunterladen",
-	"DOWNLOADVPNCONFIG" : "VPN-Config laden",
+	"DOWNLOADVPNCONFIG" : "VPN-Konfiguration laden",
 	"DOWNLOADVPNEXEC" : "VPN-Installer laden",
         "EDIT": "Bearbeiten",
         "EDITMYPW": "Passwort ändern",
