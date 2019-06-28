@@ -15,7 +15,7 @@
         "SELECTPRINTER": "Drucker wählen!",
         "STATE": "Status",
         "TITLE": "Druckerverwaltung",
-        "WINDOWSDRIVER": "Treiber verteilung aktivieren"
+        "WINDOWSDRIVER": "Treiberverteilung aktivieren"
     },
     "Printer was created succesfully.": "Drucker erfolgreich angelegt.",
     "Printer was disabled succesfully.": "Drucker wurde gesperrt.",
