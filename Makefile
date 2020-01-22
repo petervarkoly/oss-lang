@@ -8,7 +8,7 @@ RELEASE         = $(shell cat RELEASE )
 NRELEASE        = $(shell echo $(RELEASE) + 1 | bc )
 REQPACKAGES     = $(shell cat REQPACKAGES)
 HERE            = $(shell pwd)
-REPO		= /home/OSC/home:varkoly:OSS-4-1:leap15.1/
+REPO		= /data1/OSC/home:varkoly:OSS-4-1:leap15.1/
 PACKAGE         = oss-lang
 
 install:
